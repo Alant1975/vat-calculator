@@ -4,10 +4,21 @@
 }
 
 .colour-border{
-  border: 3px solid green;
+  border: 3px solid brown;
   padding: 10px;
 }
 
 .header{
   padding: 10px;
+}
+footer {
+  font-size: small;
+  color: darkolivegreen;
+}
+
+body {
+  padding: 10px;
+}
+body {
+  background-color: greenyellow;
 }
